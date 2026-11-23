@@ -1,7 +1,12 @@
 # howtocreat
 
-一个用于记录和实践「如何创建（How To Create）」相关内容的仓库。  
-（你可以在这里补充项目的具体定位，比如教程集合、工具脚手架、示例代码等。）
+## About me
+
+I build games with Unity and C#, and use Python to prototype gameplay and experiment with game AI. I first wrote [2087 Dungeons](https://github.com/howtocreat/2087-dungeons) as a Python text game, then remade it in Unity as a 3D survival adventure.
+
+## 关于我
+
+我用 Unity 和 C# 做游戏，也用 Python 做玩法原型、探索游戏 AI。我最早用 Python 写了文字游戏 [2087 Dungeons](https://github.com/howtocreat/2087-dungeons)，后来用 Unity 把它重制成了一款 3D 生存冒险游戏。
 
 ## 📌 项目简介
 
